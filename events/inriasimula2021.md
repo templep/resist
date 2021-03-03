@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inria/Simula Workshop 2021 - RESIST Session
-permalink: inriasimula2021.html
+permalink: events/inriasimula2021.html
 ---
 
 ## Program (tentative)
