@@ -12,12 +12,12 @@ order: 2
 
 ## Open Workshops
 
-TODO
+- March 16, 2021: [Inria-Simula Workshop, session about RESIST](http://gemoc.org/resist/events/inriasimula2021) (virtual event)
 
 ## Plenary RESIST meetings
 
-TODO
+TBC.
 
 ## Visits Simula & Inria
 
-TODO
+TBC.
