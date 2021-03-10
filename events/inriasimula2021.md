@@ -4,10 +4,10 @@ title: Inria/Simula Workshop 2021 - RESIST Session
 permalink: events/inriasimula2021.html
 ---
 
-## Program (tentative)
+## Program
 
 - 09:30 - 09:40 Introduction - RESIST (Arnaud Gotlieb)
-- 09:40 - 10:10 Panel "Intelligent Systems" (Mathieu Acher) 
+- 09:40 - 10:10 Panel "Intelligent Systems" (Moderator: Mathieu Acher) 
                 Invitees: Prof. Jean-Marc Jézéquel, Prof. James Crowley
 - 10:10 - 10:25 Use Case 1: Testing learning capabilities of intelligent collaborative robots (Mohit K. Ahuja)
 - 10:25 - 10:40 Use Case 2: Drones and use cases (François Bodin)
