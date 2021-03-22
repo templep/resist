@@ -6,7 +6,7 @@ permalink: events/inriasimula2021.html
 
 ## Program
 
-- 09:30 - 09:40 Introduction - [RESIST](events/20210316_Session_Intel_Sys_1_Arnaud_Gotlieb.pdf) (Arnaud Gotlieb)
+- 09:30 - 09:40 Introduction - [RESIST](20210316_Session_Intel_Sys_1_Arnaud_Gotlieb.pdf) (Arnaud Gotlieb)
 - 09:40 - 10:10 Panel "Intelligent Systems" (Moderator: Mathieu Acher) 
                 Invitees: Prof. Jean-Marc Jézéquel, Prof. James Crowley
 - 10:10 - 10:25 Use Case 1: Testing learning capabilities of intelligent collaborative robots (Mohit K. Ahuja)
