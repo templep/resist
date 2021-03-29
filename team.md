@@ -11,6 +11,8 @@ the [VIAS and COMPLEX teams](https://www.simula.no/research/software-engineering
 * **[Mathieu Acher](https://www.mathieuacher.com/), Associate Professor, Inria and Univ. Rennes 1, France (Co-PI)**
 * [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
 * [Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Rennes 1, France
+* [Luc Lesoil](https://www.linkedin.com/in/luc-lesoil-ensai/), PhD student, University of Rennes 1 with expertise in machine learning, performance engineering, and
+software systems. Luc will bring his skills in statistical learning, data analysis, and software variations.
 
 * **[Arnaud Gotlieb](https://www.simula.no/people/arnaud), Research Professor, Simula Research Laboratory, Norway (Co-PI)**
 Head of the VIAS Dept. (Validation Intelligence of Autonomous Software Systems) with expertise in Software Validation and Verification of software-intensive systems and Artificial Intelligence for Software Testing. His recent research interests include the usage of constraint optimization and machine learning to improve software testing processes.
