@@ -12,6 +12,7 @@ The goal of the RESIST associate team is to explore the science of resilient sof
 
 The RESIST associate team will be composed of sixteen researchers, ten from the Simula departments VIAS and COMPLEX within the [Software Engineering](https://www.simula.no/research/software-engineering) area and six researchers from the [DiverSE team](http://diverse.irisa.fr/) at Inria Rennes. The associate team will be jointly led by Associate Professor [Mathieu Acher](https://www.mathieuacher.com/) at the University of Rennes, and Research Professor [Arnaud Gotlieb](https://www.simula.no/people/arnaud) from Simula in Norway.
 
+**BREAKING NEWS** The next meeting will be held 26 May (full day, remotely) 
 
 <center>
 <img src="{{ site.baseurl }}/img/inria.png" alt="Inria" style="width: 200px;"/>
