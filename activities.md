@@ -16,7 +16,7 @@ order: 2
 
 ## Plenary RESIST meetings
 
-TBC.
+ - **BREAKING NEWS** The next meeting will be held 26 May (full day, remotely)
 
 ## Visits Simula & Inria
 
