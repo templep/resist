@@ -60,20 +60,22 @@ Universal Robots UR3: https://www.universal-robots.com/products/ur3-robot/)
 We aim to perform case studies on these systems to allow not only the evaluation of resilience using
 digital twins, but also to assess the transferability of the methods onto the physical hardware.
 
-[1] T. Y. Chen, F.-C. Kuo, H. Liu, P.-L. Poon, D. Towey, T. H. Tse, and Z. Q. Zhou. 2018.
+# References 
+
+ * [1] T. Y. Chen, F.-C. Kuo, H. Liu, P.-L. Poon, D. Towey, T. H. Tse, and Z. Q. Zhou. 2018.
 Metamorphic testing: A review of challenges and opportunities. ACM Computing Surveys 51,
 1 (2018), 4:1–4:27.
-[2] Adaptive metamorphic testing with contextual bandits. H. Spieker, A. Gotlieb. Journal of
+ * [2] Adaptive metamorphic testing with contextual bandits. H. Spieker, A. Gotlieb. Journal of
 Systems and Software 165: 110574, 2020.
-[3] Grieves M., Vickers J. (2017) Digital Twin: Mitigating Unpredictable, Undesirable
+ * [3] Grieves M., Vickers J. (2017) Digital Twin: Mitigating Unpredictable, Undesirable
 Emergent Behavior in Complex Systems. In: Transdisciplinary Perspectives on Complex
 Systems. Springer, Cham.
-[4] S. Ali and T. Yue, Handling Uncertainties in Cyber-Physical Systems during Their
+ * [4] S. Ali and T. Yue, Handling Uncertainties in Cyber-Physical Systems during Their
 Operations with Digital Twins, Presented at the Fifth Workshop on Monitoring and Testing of
 Cyber-Physical Systems (MT-CPS) co-located with CPS-IoT Week, 2020.
-[5] Francis Bordeleau, Benoit Combemale, Romina Eramo, Mark van den Brand, Manuel
+ * [5] Francis Bordeleau, Benoit Combemale, Romina Eramo, Mark van den Brand, Manuel
 Wimmer. Towards Model-Driven Digital Twin Engineering: Current Opportunities and Future
 Challenges. ICSMM 2020 - International Conference on Systems Modelling and
 Management, Jun 2020, Bergen, Norway.
-[6] Paul Temple, Mathieu Acher, Jean-Marc Jézéquel. Empirical Assessment of Multimorphic
+ * [6] Paul Temple, Mathieu Acher, Jean-Marc Jézéquel. Empirical Assessment of Multimorphic
 Testing. IEEE Transactions on Software Engineering (2020)
