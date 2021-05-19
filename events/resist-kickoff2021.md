@@ -14,8 +14,8 @@ Welcome and Introduction
 
 ### 13:30 - 15:30 Digital Twins (moderator: A. Gotlieb)
 - Towards Model-Driven Digital Twin Engineering: Current Opportunities and Future Challenges. (B. Combemale, Inria)
-- Digital Twins for rovers (S. Ali, Simula)
--	Gazebo modelling (M. Ahuja, Simula)
+- Understanding Digital Twins for Cyber-Physical Systems: A Conceptual Model (S. Ali, Simula)
+-	Gazebo Modelling (M. Ahuja, Simula)
 
 #### 15:30 - 17:30 Metamorphic Testing for Autonomous Systems (moderator: B. Combemale)
 -	Metamorphic Testing: Some Open Problems (A. Gotlieb, Simula)
