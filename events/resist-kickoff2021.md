@@ -8,7 +8,7 @@ Welcome and Introduction
 
 ### 10:00 - 12:00 ML for Test Configurations Generation (moderator: M. Acher)
 - Deep Variability/Non-functional requirements (L. Lesoil, Inria)
--	Reinforcement Learning for test case selection (H. Spieker, Simula) 
+-	Reinforcement Learning for test case selection and prioritisation (H. Spieker, Simula) 
 
 ### Lunch break
 
@@ -18,7 +18,7 @@ Welcome and Introduction
 -	Gazebo modelling (M. Ahuja, Simula)
 
 #### 15:30 - 17:30 Metamorphic Testing for Autonomous Systems (moderator: B. Combemale)
--	An Introduction to Metamorphic Testing (A. Gotlieb, Simula)
+-	Metamorphic Testing: Some Open Problems (A. Gotlieb, Simula)
 -	Multimorphic Testing (?)
 
 
