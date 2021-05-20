@@ -19,6 +19,6 @@ Welcome and Introduction
 
 ### 15:30 - 17:30 Metamorphic Testing for Autonomous Systems (moderator: B. Combemale)
 -	Metamorphic Testing: Some Open Problems (A. Gotlieb, Simula)
--	Multimorphic Testing (?)
+-	Multimorphic Testing (P. Temple, UNamur)
 
 
