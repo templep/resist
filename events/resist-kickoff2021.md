@@ -17,7 +17,7 @@ Welcome and Introduction
 - Understanding Digital Twins for Cyber-Physical Systems: A Conceptual Model (S. Ali, Simula)
 -	Gazebo Modelling (M. Ahuja, Simula)
 
-#### 15:30 - 17:30 Metamorphic Testing for Autonomous Systems (moderator: B. Combemale)
+### 15:30 - 17:30 Metamorphic Testing for Autonomous Systems (moderator: B. Combemale)
 -	Metamorphic Testing: Some Open Problems (A. Gotlieb, Simula)
 -	Multimorphic Testing (?)
 
